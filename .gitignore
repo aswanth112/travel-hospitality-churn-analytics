@@ -1,0 +1,9 @@
+data/raw/*.csv
+data/raw/*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+*.pbix.bak
