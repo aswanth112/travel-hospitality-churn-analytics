@@ -46,3 +46,30 @@ This project focuses on analyzing hospitality booking data to understand custome
 
 **Aswanth Chandran**  
 Data Analyst Intern – Infotact Solutions
+
+### ✅ 1. Data Cleaning
+
+- Imported and explored the dataset.
+- Removed duplicate records.
+- Handled missing values.
+- Dropped unnecessary columns.
+- Fixed invalid ADR values.
+- Capped extreme outliers.
+- Created a proper `arrival_date` column.
+- Prepared the dataset for analysis.
+
+---
+
+### ✅ 2. Exploratory Data Analysis (EDA)
+
+Performed detailed analysis on:
+
+- Overall booking cancellation rate
+- Cancellation rate by hotel type
+- Monthly booking trends
+- Market segment analysis
+- Lead time vs cancellation
+- Customer type analysis
+- Deposit type analysis
+- Early Planner vs Last-Minute bookings
+- Correlation Heatmap
